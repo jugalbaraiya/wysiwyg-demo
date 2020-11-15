@@ -15,4 +15,4 @@
    > http://localhost:3000/
 5. Feel free to play with design - click on Ariplane icon near app title to get the flight search menu sidebar
 
-![web-1](./docs/web-1.PNG?raw=true "Title")
+![web-1](./docs/sample.PNG?raw=true "Title")
