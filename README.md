@@ -6,7 +6,7 @@
 1. Clone this repo using following command
    > $ git clone https://github.com/jugalbaraiya/wysiwyg-demo.git
 2. Install required libraries using npm
-   > $ cd flight-search-engine
+   > $ cd wysiwyg-demo
    
    > $ npm install
 3. Run the application using npm
